@@ -1,0 +1,721 @@
+2024-06-30 00:04:31,565 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Comoros / GET
+2024-06-30 00:04:31,565 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:31,566 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:31,566 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:31,567 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:31,567 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:31 GMT', 'Content-Type': 'application/json', 'Content-Length': '1545', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:32,321 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Iceland / GET
+2024-06-30 00:04:32,321 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Iceland / GET
+2024-06-30 00:04:32,322 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:32,322 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:32,322 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:32,322 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:32,323 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:32,323 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:32,323 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:32,323 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:32,324 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '1270', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:32,324 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '1270', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:33,269 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Canada / GET
+2024-06-30 00:04:33,269 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Canada / GET
+2024-06-30 00:04:33,269 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Canada / GET
+2024-06-30 00:04:33,269 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:33,269 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:33,269 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:33,270 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:33,270 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:33,270 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:33,270 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:33,270 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:33,270 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:33,271 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:33,271 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:33,271 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:33,272 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:33 GMT', 'Content-Type': 'application/json', 'Content-Length': '1184', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:33,272 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:33 GMT', 'Content-Type': 'application/json', 'Content-Length': '1184', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:33,272 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:33 GMT', 'Content-Type': 'application/json', 'Content-Length': '1184', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:34,307 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 00:04:34,307 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 00:04:34,307 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 00:04:34,307 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 00:04:34,308 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:34,308 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:34,308 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:34,308 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:34,308 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:34,308 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:34,308 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:34,308 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:34,309 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:34,309 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:34,309 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:34,309 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:34,310 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:34,310 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:34,310 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:34,310 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:34,310 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:34,310 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:34,310 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:34,310 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:36,037 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 00:04:36,037 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 00:04:36,037 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 00:04:36,037 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 00:04:36,037 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 00:04:36,038 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:36,038 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:36,038 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:36,038 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:36,038 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:36,038 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:36,038 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:36,038 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:36,038 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:36,038 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:36,039 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:36,039 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:36,039 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:36,039 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:36,039 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:36,039 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:36,039 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:36,039 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:36,039 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:36,039 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:36,040 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:36,040 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:36,040 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:36,040 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:36,040 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:45,809 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 00:04:45,809 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 00:04:45,809 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 00:04:45,809 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 00:04:45,809 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 00:04:45,809 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 00:04:45,810 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:45,810 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:45,810 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:45,810 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:45,810 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:45,810 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:45,811 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:45,811 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:45,811 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:45,811 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:45,811 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:45,811 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:45,812 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:45,812 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:45,812 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:45,812 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:45,812 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:45,812 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:45,812 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:45,812 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:45,812 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:45,812 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:45,812 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:45,812 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:45,813 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:45,813 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:45,813 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:45,813 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:45,813 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:45,813 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:45,814 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:45,814 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:45,814 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:45,814 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:45,814 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:45,814 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,529 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,530 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,531 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,532 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,533 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,534 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:46 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:46,535 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,273 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,274 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,275 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,276 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,277 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,278 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,279 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,942 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/for / GET
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,943 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,944 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,945 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:47,946 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '1595', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,920 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/it / GET
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,921 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,922 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,923 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,924 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 00:04:49,925 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sat, 29 Jun 2024 18:34:49 GMT', 'Content-Type': 'application/json', 'Content-Length': '27959', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:14,679 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Comoros / GET
+2024-06-30 11:33:14,710 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:14,710 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:14,711 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:14,711 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:14,712 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:14 GMT', 'Content-Type': 'application/json', 'Content-Length': '1545', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:15,680 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Iceland / GET
+2024-06-30 11:33:15,680 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Iceland / GET
+2024-06-30 11:33:15,681 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:15,681 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:15,681 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:15,681 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:15,681 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:15,681 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:15,682 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:15,682 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:15,682 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '1270', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:15,682 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:15 GMT', 'Content-Type': 'application/json', 'Content-Length': '1270', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:16,660 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Canada / GET
+2024-06-30 11:33:16,660 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Canada / GET
+2024-06-30 11:33:16,660 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Canada / GET
+2024-06-30 11:33:16,661 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:16,661 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:16,661 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:16,661 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:16,661 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:16,661 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:16,662 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:16,662 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:16,662 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:16,662 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:16,662 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:16,662 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:16,663 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '1184', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:16,663 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '1184', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:16,663 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '1184', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:17,640 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 11:33:17,640 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 11:33:17,640 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 11:33:17,640 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Guyana / GET
+2024-06-30 11:33:17,640 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:17,640 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:17,640 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:17,640 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:17,641 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:17,641 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:17,641 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:17,641 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:17,641 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:17,641 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:17,641 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:17,641 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:17,642 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:17,642 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:17,642 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:17,642 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:17,643 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:17,643 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:17,643 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:17,643 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '1522', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:19,078 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 11:33:19,078 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 11:33:19,078 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 11:33:19,078 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 11:33:19,078 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Rwanda / GET
+2024-06-30 11:33:19,079 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:19,079 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:19,079 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:19,079 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:19,079 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:19,080 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:19,080 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:19,080 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:19,080 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:19,080 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:19,080 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:19,080 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:19,080 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:19,080 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:19,080 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:19,081 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:19,081 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:19,081 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:19,081 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:19,081 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 200
+2024-06-30 11:33:19,081 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:19,081 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:19,081 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:19,081 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:19,081 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '1310', 'Connection': 'keep-alive', 'Cache-Control': 'public, immutable, max-age=31556926', 'content-encoding': 'gzip'}
+2024-06-30 11:33:20,887 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 11:33:20,887 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 11:33:20,887 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 11:33:20,887 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 11:33:20,887 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 11:33:20,887 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/ABCD / GET
+2024-06-30 11:33:20,888 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:20,888 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:20,888 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:20,888 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:20,888 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:20,888 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:20,889 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:20,889 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:20,889 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:20,889 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:20,889 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:20,889 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:20,890 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:20,890 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:20,890 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:20,890 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:20,890 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:20,890 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:20,890 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:20,890 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:20,890 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:20,890 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:20,890 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:20,890 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:20,891 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:20,891 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:20,891 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:20,891 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:20,891 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:20,891 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:20,892 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:20,892 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:20,892 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:20,892 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:20,892 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:20,892 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,687 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Invalid / GET
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,688 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,689 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,690 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,691 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,692 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:21,693 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,492 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/Need / GET
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,526 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,527 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,528 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,530 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,531 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:21 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:22,532 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,366 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/1==1 / GET
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,367 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,368 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,369 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,370 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,371 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:22 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:23,372 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,209 [INFO] componentbase.py:33 URL: https://restcountries.com/v3.1/name/2==2 / GET
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,211 [INFO] componentbase.py:34 REQUEST PAYLOAD: {}
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,212 [INFO] componentbase.py:35 REQUEST PARAMS: None
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,213 [INFO] componentbase.py:36 REQUEST HEADERS: {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json;charset=utf-8'}
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,214 [INFO] componentbase.py:37 RESPONSE STATUS CODE: 404
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,215 [INFO] componentbase.py:38 RESPONSE HEADERS: {'Server': 'nginx/1.22.1', 'Date': 'Sun, 30 Jun 2024 06:03:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '36', 'Connection': 'keep-alive'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
+2024-06-30 11:33:24,216 [INFO] componentbase.py:39 RESPONSE: {'status': 404, 'message': 'Not Found'}
